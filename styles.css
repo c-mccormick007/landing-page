@@ -67,9 +67,43 @@ h1 {
 .image1 {
     max-width: 500px;
     max-height: auto;
-
 }
 
+.cardimg {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.content2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h2 {
+    align-self: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+.description {
+    padding-top: 10px;
+
+}
 
 
 

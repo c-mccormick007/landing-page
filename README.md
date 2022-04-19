@@ -8,4 +8,4 @@ Photo 3 by Pixabay: https://www.pexels.com/photo/blur-board-game-business-challe
 
 Photo 4 by Charlotte May: https://www.pexels.com/photo/person-serving-fresh-tasty-cocktail-with-red-orange-on-table-5946643/
 
-Photo 5 by Jill Burrow: https://www.pexels.com/photo/delicate-chamomile-flowers-placed-on-sphere-and-cube-6069699/
+Photo 5 by Jill Burrow: https://www.pexels.com/photo/delicate-chamomile-flowers-placed-on-sphere-and-cube-6069699/s
