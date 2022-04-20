@@ -1,5 +1,13 @@
 # landing-page
 
+Second Odin Project 
+
+Demonstrated skills: 
+
+- HTML
+- CSS
+    -Flexbox
+
 Photo 1 by Jan van der Wolf from Pexels
 
 Photo 2 by Pixabay: https://www.pexels.com/photo/cards-casino-chance-chip-269630/
